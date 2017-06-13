@@ -9,7 +9,6 @@ public class Blood {
     private int[][] path = { {350, 300}, {350, 305}, {350, 310}, {350, 315}, {350, 320},
             {350, 330}, {375, 400}};
     private boolean live = true;
-    public static Random br = new Random();
 
     /**
      * default constructor
